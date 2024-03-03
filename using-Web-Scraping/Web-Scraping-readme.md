@@ -17,3 +17,6 @@ This service offers a convenient and efficient way to assess your
 knowledge and understanding of the provided material. With our
 seamless integration of web scraping and oral questioning, you can
 expect a comprehensive evaluation tailored to your specific needs.
+
+![Screenshot (184)](https://github.com/priya-anto-31/VoiceVIVA-Oral-VIVA/assets/153642074/276e71ce-f0a0-4ef7-be35-3dfb4da95394)
+
